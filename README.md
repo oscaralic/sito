@@ -6,16 +6,16 @@ Questo è il repository del mio sito web professionale. Il progetto presenta il 
 Il sito è una landing page professionale progettata per presentare portfolio, competenze e percorso lavorativo. È stato sviluppato con un approccio "data-driven", riflettendo l'unione tra creatività editoriale e analisi tecnica. 
 
 Il progetto segue le moderne best practice di sviluppo web richieste:
-* **Struttura Semantica**: Utilizzo di tag HTML5 come `<main>`, `<article>`, `<section>`, `<header>` e `<footer>` per una migliore accessibilità e SEO.
-* **SEO & Social**: Implementazione di meta description e Open Graph tags per una condivisione ottimale sui social media.
-* **Organizzazione Asset**: Struttura delle cartelle pulita con una cartella `assets/` dedicata per CSS e immagini.
+* **Struttura Semantica**: utilizzo di tag HTML5 come `<main>`, `<article>`, `<section>`, `<header>` e `<footer>` per una migliore accessibilità e SEO.
+* **SEO & Social**: implementazione di meta description e Open Graph tags per una condivisione ottimale sui social media.
+* **Organizzazione Asset**: struttura delle cartelle pulita con una cartella `assets/` dedicata per CSS e immagini.
 
 ## 🛠️ Tecnologie Usate
-* **HTML5**: Struttura semantica avanzata.
-* **CSS3**: Styling personalizzato, variabili CSS e animazioni.
-* **Bootstrap 5**: Grid system e componenti responsive.
-* **FontAwesome**: Iconografia professionale.
-* **Google Fonts**: Tipografia con il font "Poppins".
+* **HTML5**: struttura semantica avanzata.
+* **CSS3**: styling personalizzato, variabili CSS e animazioni.
+* **Bootstrap 5**: grid system e componenti responsive.
+* **FontAwesome**: iconografia professionale.
+* **Google Fonts**: tipografia con il font "Poppins".
 
 ## 🌐 Link al sito live
 Puoi visualizzare il progetto online qui:
@@ -27,7 +27,7 @@ Ecco un'anteprima della home page del sito:
 ![Anteprima del sito](assets/img/preview.png)
 
 ## 📂 Organizzazione del Progetto
-Seguendo le indicazioni tecniche, il progetto è così strutturato:
+Il progetto è così strutturato:
 
 ```text
 /
